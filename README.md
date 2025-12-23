@@ -23,10 +23,10 @@ Storm set reduction (Adaptive sampling algorithm) code: StormSetReduction(Adapti
 - Selects next storm
 """
 
-
-%% Storm track & intensity visualization code: VisualizationOfStormSet.m
-% This script demonstrates how to:
-% 1) Plot storm tracks (lat/lon)
-% 2) Compare intensity (Pc) distributions
-% 3) Use different storm index sets
-%
+"""
+Storm track & intensity visualization code: VisualizationOfStormSet.m
+- This script demonstrates how to:
+- 1) Plot storm tracks (lat/lon)
+- 2) Compare intensity (Pc) distributions
+- 3) Use different storm index sets
+"""
